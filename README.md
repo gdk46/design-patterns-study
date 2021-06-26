@@ -48,4 +48,4 @@ Em geral, um padrão possui quatro elementos essenciais:
 - State
 - Strategy
 - Template Method
-- Visitorr
+- Visitor
